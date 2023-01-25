@@ -1,0 +1,7 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/word_title">
+    <TextView
+        android:id="@+id/word"
+        style="@style/word_title"
+        android:textSize="25sp"/>
+</LinearLayout>
